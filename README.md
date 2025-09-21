@@ -97,5 +97,5 @@ Hanya butuh beberapa langkah untuk menjalankan aplikasi ini di komputermu.
 ---
 
 <p align="center">
-  Dibuat dengan ❤️ oleh [Nama Kamu]
+  Dibuat dengan ❤️ oleh Kevin DW
 </p>
