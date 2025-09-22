@@ -96,6 +96,16 @@ Hanya butuh beberapa langkah untuk menjalankan aplikasi ini di komputermu.
 
 ---
 
+Screenshots 
+
+
+<img width="1917" height="1033" alt="about" src="https://github.com/user-attachments/assets/de0dd8c3-8ccd-4f09-b145-a3f397480508" />
+<img width="1918" height="1002" alt="create-kategori" src="https://github.com/user-attachments/assets/817f8423-d2a7-4ae9-b921-f38c5d0094dc" />
+<img width="1919" height="1079" alt="create-surat" src="https://github.com/user-attachments/assets/6bc12fb5-03e3-4329-86da-3c49189e6d3d" />
+<img width="1919" height="1079" alt="index-kategori" src="https://github.com/user-attachments/assets/05966282-832b-4b44-b72d-564c3f7cb67a" />
+<img width="1919" height="1027" alt="index-surat" src="https://github.com/user-attachments/assets/ba2392b3-49d7-44d1-b23f-5b4049d970a5" />
+<img width="1919" height="1079" alt="lihat-surat" src="https://github.com/user-attachments/assets/0ae37e50-01eb-460b-9def-9648a99103b4" />
+
 <p align="center">
   Dibuat dengan ❤️ oleh Kevin DW
 </p>
