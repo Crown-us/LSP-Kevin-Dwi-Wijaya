@@ -49,7 +49,7 @@ Hanya butuh beberapa langkah untuk menjalankan aplikasi ini di komputermu.
 1.  **Clone Repository**
     Buka terminalmu dan jalankan perintah berikut:
     ```bash
-    git clone [https://github.com/gadingss/arsip_surat.git](https://github.com/gadingss/arsip_surat.git)
+    git clone (https://github.com/Crown-us/LSP-Kevin-Dwi-Wijaya.git)
     ```
 
 2.  **Masuk ke Direktori Proyek**
